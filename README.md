@@ -1,4 +1,3 @@
-# 오픈소스 조사내용 README 파일로 정리하기
 
 
 ## 리눅스 명령어 (top, ps, jobs, kill)
