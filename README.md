@@ -135,7 +135,7 @@
 
 ### 기본적인 매크로 사용 방법
 
-!|https://github.com/jhi000128/OpenSource_20194581/blob/main/%EB%A7%A4%ED%81%AC%EB%A1%9C.PNG|
+![매크로 이미지](https://github.com/jhi000128/OpenSource_20194581/blob/main/%EB%A7%A4%ED%81%AC%EB%A1%9C.PNG)
 
 <br/>
 
